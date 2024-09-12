@@ -12,6 +12,11 @@ pipeline {
                 sh 'npm ci'
             }
         }
+        stage('Install dependencies playwight') {
+            steps {
+                sh 'npx playwright install'
+            }
+        }
         
         
         stage('Run playwright Tests') {
