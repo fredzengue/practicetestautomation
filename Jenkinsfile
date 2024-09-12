@@ -29,7 +29,8 @@ pipeline {
     post {
         always {
             // Publish the test report in JSON format
-            publishJSONReport targets: 'test-results.json'
+            // publishJSONReport targets: 'test-results.json'
+            junit "results.xml"
         }
     }
  

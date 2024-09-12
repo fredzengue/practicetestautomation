@@ -1,0 +1,44 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="12.186063999999998">
+<testsuite name="login.spec.ts" timestamp="2024-09-12T14:13:14.265Z" hostname="chromium" tests="2" failures="0" skipped="0" time="20.15" errors="0">
+<testcase name="login › login with username correct and password correct" classname="login.spec.ts" time="10.554">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+<testcase name="login › login with username Icorrect and password correct" classname="login.spec.ts" time="9.596">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2024-09-12T14:13:14.265Z" hostname="firefox" tests="2" failures="0" skipped="0" time="13.229" errors="0">
+<testcase name="login › login with username correct and password correct" classname="login.spec.ts" time="5.656">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+<testcase name="login › login with username Icorrect and password correct" classname="login.spec.ts" time="7.573">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2024-09-12T14:13:14.265Z" hostname="webkit" tests="2" failures="0" skipped="0" time="12.413" errors="0">
+<testcase name="login › login with username correct and password correct" classname="login.spec.ts" time="7.513">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+<testcase name="login › login with username Icorrect and password correct" classname="login.spec.ts" time="4.9">
+<system-out>
+<![CDATA[### FIN DU SCENARIO ###
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
